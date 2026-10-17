@@ -2,9 +2,23 @@
 
 ### 🎓 Academic | 📊 Finance Researcher | 📈 Financial Econometrics
 
-I am an academic and researcher specializing in Finance, Accounting, Financial Markets, and Financial Econometrics. My research focuses on financial-market dynamics, volatility spillovers, risk transmission, portfolio diversification, and sustainable finance using advanced econometric models.
+<p align="center">
+  <a href="https://dr-susovon.pages.dev/"><img src="https://img.shields.io/badge/Website-Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://dr-susovon.pages.dev/#research"><img src="https://img.shields.io/badge/Research-Publications-2563EB?style=for-the-badge" alt="Research and Publications"/></a>
+  <a href="https://scholar.google.com/citations?user=7reIeMYAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0000-0002-9231-6437"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.researchgate.net/profile/Susovon-Jana/research"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=58261512100"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge" alt="Scopus"/></a>
+  <a href="https://www.webofscience.com/wos/author/record/AGC-0992-2022"><img src="https://img.shields.io/badge/Web_of_Science-5A4FCF?style=for-the-badge" alt="Web of Science"/></a>
+  <a href="https://vidwan.inflibnet.ac.in/profile/344452"><img src="https://img.shields.io/badge/VIDWAN-0B7285?style=for-the-badge" alt="VIDWAN"/></a>
+  <a href="https://sciprofiles.com/"><img src="https://img.shields.io/badge/SciProfiles-2878B5?style=for-the-badge" alt="SciProfiles"/></a>
+</p>
 
-I am also interested in developing open-source digital tools that make academic research, citation management, and quantitative analysis more accessible.
+I am an academic and researcher specializing in **Finance, Accounting, Financial Markets, and Financial Econometrics**. My research explores financial-market dynamics, volatility spillovers, risk transmission, portfolio diversification, and sustainable finance using advanced econometric techniques.
+
+I am passionate about transforming complex financial data into meaningful research insights and developing digital tools that support academic writing, quantitative analysis, and open research.
+
+---
 
 ---
 
@@ -131,46 +145,13 @@ If you share similar research interests, I would be happy to connect and explore
 
 ---
 
-## 🌐 Contact & Academic Profiles
+---
+
+## 🤝 Contact
 
 <p align="center">
-  <a href="https://dr-susovon.pages.dev/">
-    <img src="https://img.shields.io/badge/Personal_Website-Visit_Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
-  </a>
-  <a href="https://dr-susovon.pages.dev/#research">
-    <img src="https://img.shields.io/badge/Research-Publications-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research and Publications"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=7reIeMYAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-9231-6437">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--9231--6437-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Susovon-Jana/research">
-    <img src="https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-  </a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=58261512100">
-    <img src="https://img.shields.io/badge/Scopus-Author_Profile-E9711C?style=for-the-badge" alt="Scopus"/>
-  </a>
-  <a href="https://www.webofscience.com/wos/author/record/AGC-0992-2022">
-    <img src="https://img.shields.io/badge/Web_of_Science-Researcher_Profile-5A4FCF?style=for-the-badge" alt="Web of Science"/>
-  </a>
-  <a href="https://vidwan.inflibnet.ac.in/profile/344452">
-    <img src="https://img.shields.io/badge/VIDWAN-Academic_Profile-0B7285?style=for-the-badge" alt="VIDWAN"/>
-  </a>
-  <a href="https://sciprofiles.com/">
-    <img src="https://img.shields.io/badge/SciProfiles-Research_Network-2878B5?style=for-the-badge" alt="SciProfiles"/>
-  </a>
-  <a href="https://www.linkedin.com/in/susovon-jana-ph-d-30bb58226/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 <strong>Email:</strong> <a href="mailto:susovonjana@zohomail.in">susovonjana@zohomail.in</a>
+  <a href="https://www.linkedin.com/in/susovon-jana-ph-d-30bb58226/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:susovonjana@zohomail.in"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
