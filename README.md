@@ -1,60 +1,49 @@
-# 👋 Hi, I'm Dr. Susovon Jana, Ph.D.
+# 👋 Hi, I'm Susovon Jana, Ph.D.
 
 ### 🎓 Academic | 📊 Finance Researcher | 📈 Financial Econometrics
 
-<p align="center">
-  <a href="https://dr-susovon.pages.dev/">
-    <img src="https://img.shields.io/badge/🌐_Personal_Website-Visit_My_Portfolio-0D9488?style=for-the-badge" alt="Personal Website"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=7reIeMYAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-9231-6437">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--9231--6437-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-</p>
+I am an academic and researcher specializing in Finance, Accounting, Financial Markets, and Financial Econometrics. My research focuses on financial-market dynamics, volatility spillovers, risk transmission, portfolio diversification, and sustainable finance using advanced econometric models.
 
-Welcome to my GitHub profile! I am an academic and researcher specializing in **Finance, Accounting, Financial Markets, and Financial Econometrics**. My research explores the dynamics of financial markets, volatility transmission, portfolio diversification, and risk management through advanced econometric techniques and data-driven analysis.
-
-I am passionate about transforming complex financial data into meaningful research insights, developing practical research tools, and contributing to open and reproducible academic research.
+I am also interested in developing open-source digital tools that make academic research, citation management, and quantitative analysis more accessible.
 
 ---
 
 ## 🧭 Explore My Profile
 
 <p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-research-interests">Research</a> •
-  <a href="#-methodological-toolkit">Methods</a> •
-  <a href="#-research--digital-projects">Projects</a> •
-  <a href="#-education--qualifications">Education</a> •
-  <a href="#-connect-with-me">Connect</a>
+  <a href="#about-me">👨‍🎓 About Me</a> •
+  <a href="#research-interests">🔬 Research</a> •
+  <a href="#methodological-toolkit">📊 Methodology</a> •
+  <a href="#research--digital-projects">💻 Projects</a> •
+  <a href="#education--qualifications">🎓 Education</a> •
+  <a href="#contact--academic-profiles">🌐 Contact</a>
 </p>
 
-## 🎓 About Me
+## 👨‍🎓 About Me
 
-- **Current affiliation:** Assistant Professor, Department of Commerce, Adamas University, Kolkata, India.
-- **Previous affiliation:** Assistant Professor, Amity College of Commerce & Finance, Amity University Kolkata.
-- **Doctoral qualification:** Ph.D. in Management, Vidyasagar University (awarded in 2025).
-- **Research background:** Six years of research experience and publications in international scholarly journals.
-- **Research recognition:** UGC–Junior Research Fellowship (JRF) and West Bengal State Eligibility Test (WBSET), 2020.
-- **Academic mission:** Advancing evidence-based financial research through rigorous econometric modelling, reproducible analysis, and research-oriented digital tools.
+- **Current Position:** Assistant Professor, Department of Commerce, Adamas University, Kolkata.
+- **Previous Position:** Assistant Professor, Amity College of Commerce & Finance, Amity University Kolkata.
+- **Doctoral Degree:** Ph.D. in Management, Vidyasagar University (2025).
+- **Research Experience:** Six years of research experience.
+- **Academic Qualifications:** Ph.D. in Management, M.Phil. in Commerce, and MBA in Financial Management.
+- **Research Recognition:** UGC–Junior Research Fellowship (JRF) and West Bengal State Eligibility Test (WBSET), 2020.
+- **Research Mission:** Advancing quantitative finance, empirical research, and open academic innovation.
 
 ## 🔬 Research Interests
 
-My research interests span the intersection of financial markets, quantitative finance, sustainability, and empirical economics.
+My research investigates how financial markets respond to uncertainty, transmit shocks, and interact across different economic conditions.
 
-| Research Area | Key Themes |
+| Research Domain | Areas of Interest |
 |---|---|
-| 📈 Financial Markets | Stock markets, cryptocurrencies, commodities, and investment assets |
-| 🌊 Volatility & Connectedness | Volatility spillovers, shock transmission, and dynamic market connectedness |
+| 📈 Financial Markets | Equity markets, cryptocurrencies, commodities, and investment assets |
+| 🌊 Volatility & Connectedness | Dynamic spillovers, shock transmission, and asymmetric volatility |
 | 🛡️ Risk & Portfolio Management | Hedging effectiveness, diversification, and safe-haven properties |
 | 🌱 Sustainable Finance | ESG performance, sustainable development, and carbon emissions |
-| 🌍 Macroeconomic & Institutional Analysis | Governance, economic uncertainty, and cross-country financial dynamics |
+| 🌍 Economic & Institutional Analysis | Governance, macroeconomic uncertainty, and cross-country dynamics |
 
 ## 📊 Methodological Toolkit
 
-I use advanced econometric models to investigate nonlinearities, time-varying relationships, asymmetric responses, and cross-market dependencies.
+I employ advanced econometric techniques to investigate nonlinear relationships, time-varying dependencies, asymmetric responses, and financial-market interconnectedness.
 
 <p>
   <img src="https://img.shields.io/badge/TVP--VAR-Dynamic_Connectedness-2563EB?style=flat-square" alt="TVP-VAR"/>
@@ -62,57 +51,61 @@ I use advanced econometric models to investigate nonlinearities, time-varying re
   <img src="https://img.shields.io/badge/GARCH-Volatility_Modelling-0891B2?style=flat-square" alt="GARCH"/>
   <img src="https://img.shields.io/badge/Wavelet-Time--Frequency_Analysis-0D9488?style=flat-square" alt="Wavelet"/>
   <img src="https://img.shields.io/badge/Transfer_Entropy-Information_Flow-D97706?style=flat-square" alt="Transfer Entropy"/>
-  <img src="https://img.shields.io/badge/R-Econometric_Computing-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/R-Statistical_Computing-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
 </p>
 
-**Core methods and techniques**
+**Core methods**
 
-- Time-Varying Parameter Vector Autoregression (TVP-VAR)
-- Quantile Vector Autoregression (QVAR) and quantile-based connectedness
-- GARCH-family models, including asymmetric volatility specifications
-- Dynamic conditional correlation and multivariate volatility models
-- Wavelet coherence and time-frequency analysis
-- Transfer entropy and information-theoretic measures
-- VAR, LASSO, robustness diagnostics, and bootstrap inference
+- Time-Varying Parameter Vector Autoregression (TVP-VAR).
+- Quantile Vector Autoregression (QVAR) and quantile-based connectedness.
+- GARCH-family models, including asymmetric volatility specifications.
+- Dynamic Conditional Correlation (DCC-GARCH).
+- Wavelet coherence and time-frequency analysis.
+- Transfer entropy and information-theoretic measures.
+- VAR, LASSO, bootstrap inference, and robustness diagnostics.
 
 ## 💻 Research & Digital Projects
 
-I am interested in building useful digital tools that support academic writing, quantitative research, and research reproducibility.
+I combine academic research with digital innovation to develop practical solutions for researchers, students, and scholarly communities.
 
 ### 📚 CitePilot — Academic Citation Tool
 
-A research-oriented tool designed to simplify citation management, support multiple citation styles, and help researchers check references.
+An academic research tool designed to simplify citation generation, reference management, and manuscript-reference consistency checking.
 
-- 🔗 **Explore:** [CitePilot](https://citepilot.pages.dev/)
-- 🛠️ **Interests:** Academic writing, citation consistency, reference management, and privacy-conscious web applications.
+**Key areas of development:**
+- Citation generation and formatting across multiple referencing styles.
+- Reference organization and academic writing support.
+- Manuscript-reference consistency checking.
+- Privacy-conscious, browser-based research workflows.
 
-### 📊 Quantitative Finance & Econometric Research
+🔗 Explore the project: [CitePilot](https://citepilot.pages.dev/)
 
-My empirical work explores market connectedness, volatility spillovers, asymmetric risk transmission, and portfolio hedging across financial assets and markets.
+### 📈 Quantitative Finance & Econometric Research
 
-- 🔗 **Research portfolio:** [Explore my publications and academic work](https://dr-susovon.pages.dev/)
-- 📈 **Focus:** Financial time series, dynamic connectedness, quantile-based analysis, and reproducible econometric workflows.
+My empirical research explores financial-market connectedness, volatility transmission, cryptocurrency diversification, asymmetric risk, and portfolio hedging.
 
-> Interested in research collaboration, academic tools, or quantitative finance projects? Feel free to connect!
+**Research focus:**
+- Dynamic connectedness and volatility spillovers.
+- Quantile-dependent market relationships.
+- Financial uncertainty and cross-market transmission.
+- Sustainable finance and environmental-economic interactions.
+- Reproducible econometric analysis using R.
+
+🔗 Explore my research portfolio through the academic profiles in the Contact section below.
 
 ## 📝 Publications & Academic Contributions
 
-My research has appeared in international journals indexed in **Scopus, Web of Science, and ABDC-listed outlets**.
+My research includes contributions to international scholarly journals indexed in **Scopus, Web of Science, and ABDC-listed outlets**.
 
 Selected research themes include:
 
 - Dynamic connectedness between modern investment assets and equity markets.
-- Quantile spillovers and portfolio shielding involving ESG stocks and commodity markets.
+- Quantile spillovers and portfolio shielding between ESG stocks and commodity markets.
 - Cryptocurrency diversification and safe-haven properties in stock markets.
-- Sustainable development, environmental outcomes, and financial-market dynamics.
+- Sustainable development, environmental outcomes, and corporate performance.
+- Macroeconomic variables, institutional quality, and international stock-market dynamics.
 
-📖 **Explore my research:**
-
-- [Google Scholar](https://scholar.google.com/citations?user=7reIeMYAAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Susovon-Jana)
-- [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58261512100)
-- [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/AGC-0992-2022)
-- [VIDWAN Academic Profile](https://vidwan.inflibnet.ac.in/profile/344452)
+I welcome constructive feedback, interdisciplinary research collaborations, and discussions on emerging methodologies in financial econometrics.
 
 ## 🎓 Education & Qualifications
 
@@ -125,42 +118,65 @@ Selected research themes include:
 
 ## 🤝 Collaboration & Open Research
 
-I welcome opportunities to collaborate with researchers, faculty members, doctoral scholars, and developers working on:
+I welcome opportunities to collaborate with academics, doctoral scholars, research professionals, and developers working on:
 
 - Financial econometrics and quantitative finance.
-- Financial-market connectedness and risk transmission.
+- Financial-market connectedness and volatility spillovers.
 - ESG, sustainable finance, and environmental economics.
+- Cryptocurrency markets and portfolio risk management.
 - Open-source academic software and research automation.
-- Reproducible empirical research and data-driven decision-making.
+- Reproducible research and data-driven decision-making.
 
-If our research interests overlap, feel free to reach out through my website or academic profiles.
+If you share similar research interests, I would be happy to connect and explore potential collaborations.
 
-## 🌐 Connect With Me
+---
+
+## 🌐 Contact & Academic Profiles
 
 <p align="center">
   <a href="https://dr-susovon.pages.dev/">
-    <img src="https://img.shields.io/badge/Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Personal_Website-Visit_Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"/>
+  </a>
+  <a href="https://dr-susovon.pages.dev/#research">
+    <img src="https://img.shields.io/badge/Research-Publications-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research and Publications"/>
   </a>
   <a href="https://scholar.google.com/citations?user=7reIeMYAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="https://orcid.org/0000-0002-9231-6437">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--9231--6437-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-  <a href="https://www.researchgate.net/profile/Susovon-Jana">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+</p>
+
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Susovon-Jana/research">
+    <img src="https://img.shields.io/badge/ResearchGate-Research_Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  </a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=58261512100">
+    <img src="https://img.shields.io/badge/Scopus-Author_Profile-E9711C?style=for-the-badge" alt="Scopus"/>
+  </a>
+  <a href="https://www.webofscience.com/wos/author/record/AGC-0992-2022">
+    <img src="https://img.shields.io/badge/Web_of_Science-Researcher_Profile-5A4FCF?style=for-the-badge" alt="Web of Science"/>
+  </a>
+  <a href="https://vidwan.inflibnet.ac.in/profile/344452">
+    <img src="https://img.shields.io/badge/VIDWAN-Academic_Profile-0B7285?style=for-the-badge" alt="VIDWAN"/>
+  </a>
+  <a href="https://sciprofiles.com/">
+    <img src="https://img.shields.io/badge/SciProfiles-Research_Network-2878B5?style=for-the-badge" alt="SciProfiles"/>
   </a>
   <a href="https://www.linkedin.com/in/susovon-jana-ph-d-30bb58226/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:susovonjana@zohomail.in">susovonjana@zohomail.in</a>
 </p>
 
 <p align="center">
   <i>Advancing financial research through quantitative insight, methodological rigour, and open innovation.</i>
 </p>
 
----
-
 <p align="center">
-  ⭐ If you find my research or projects useful, explore my website and connect with me for collaboration.
+  ⭐ Explore my work, share your feedback, and connect with me for academic collaboration.
 </p>
