@@ -1,7 +1,9 @@
 
 # 👋 Hi, I'm Susovon Jana, Ph.D.
 
-### 🎓 Academic | 📊 Finance Researcher | 📈 Financial Econometrics
+<p align="center">
+  <strong>🎓 Academic | 📊 Finance Researcher | 📈 Financial Econometrics</strong>
+</p>
 
 <p align="center">
   <a href="https://dr-susovon.pages.dev/">
@@ -46,7 +48,7 @@ I am passionate about transforming complex financial data into meaningful resear
   <a href="https://dr-susovon.pages.dev/#research">🔬 Research</a> •
   <a href="https://dr-susovon.pages.dev/#journal">📝 Publications</a> •
   <a href="https://dr-susovon.pages.dev/#education">🎓 Education</a> •
-  <a href="https://dr-susovon.pages.dev/contact">📩 Contact</a>
+  <a href="https://dr-susovon.pages.dev/#contact">📩 Contact</a>
 </p>
 
 ---
