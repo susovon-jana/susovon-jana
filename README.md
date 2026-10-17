@@ -44,12 +44,9 @@ I am passionate about transforming complex financial data into meaningful resear
 <p align="center">
   <a href="https://dr-susovon.pages.dev/cv#about">👨‍🎓 About Me</a> •
   <a href="https://dr-susovon.pages.dev/#research">🔬 Research</a> •
-  <a href="#methodological-toolkit">📊 Methodology</a> •
-  <a href="#research--digital-projects">💻 Projects</a> •
   <a href="https://dr-susovon.pages.dev/#journal">📝 Publications</a> •
   <a href="https://dr-susovon.pages.dev/#education">🎓 Education</a> •
-  <a href="#collaboration--open-research">🤝 Collaboration</a> •
-  <a href="#contact">📩 Contact</a>
+  <a href="https://dr-susovon.pages.dev/contact">📩 Contact</a>
 </p>
 
 ---
